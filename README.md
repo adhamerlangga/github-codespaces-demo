@@ -1,5 +1,5 @@
 # github-codespaces-demo
-this is for a demo
+This repo is used for testing to use github codespaces
 
 # common-linux-commands-data-engineering
 A few examples of common Linux Commands for Data Engineering
